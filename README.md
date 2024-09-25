@@ -1,0 +1,1 @@
+由于这个项目是一个基于JavaFX框架的一个App，且这个项目设计Media媒体播放，所以需要导入JavaFX的sdk的lib包中的media，另外由于页面转换等原因还需要导入javafx的sdk中的bin
